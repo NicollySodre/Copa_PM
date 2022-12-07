@@ -4,6 +4,8 @@
     <string name="escalacao">Ver Escalação</string>
     <string name="data1">22/11</string>
     <string name="data2">26/11</string>
+    <string name="data3">30/11</string>
     <string name="dinamarca">DINAMARCA</string>
     <string name="australia">AUSTRÁLIA</string>
+    <string name="franca">FRANÇA</string>
 </resources>
